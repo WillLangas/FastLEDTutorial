@@ -13,9 +13,6 @@ void setup() {
   delay(3000);
   FastLED.addLeds<LED_TYPE, LED_PIN, COLOR_ORDER>(leds, NUM_LEDS).setCorrection( TypicalLEDStrip );
   FastLED.setBrightness(BRIGHTNESS);
-
-  currentPalette = RainbowColors_p
-  currentBlending = LINEARBLEND;
 }
 
 void loop() {
