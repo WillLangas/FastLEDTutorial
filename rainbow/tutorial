@@ -1,0 +1,8 @@
+# Rainbow
+
+The following program creates a cycle of ROYGBV Colors by utilizing the built in palettes
+
+Such palettes are very powerful, and allow access to many colors within a limited memory system
+
+The built in palettes are RainbowColors_p, RainbowStripeColors_p,
+OceanColors_p, CloudColors_p, LavaColors_p, ForestColors_p, and PartyColors_p
