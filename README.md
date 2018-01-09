@@ -2,7 +2,7 @@
 
 The following files contain examples as well as step by step tutorials in order to help get up and running with the library.
 
-First, download the Fast LED library from https://github.com/FastLED/FastLED/releases. Then drag the zip folder into the arduino 
+First, download the Fast LED library from [Fast LED Site](https://github.com/FastLED/FastLED/releases). Then drag the zip folder into the arduino 
 libraries folder. Doing so will allow access to the library and its contents 
 
 Next, follow the tutorials, or explore the examples in order to gain experience with the functions. 
