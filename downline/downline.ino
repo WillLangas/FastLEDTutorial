@@ -24,10 +24,10 @@ void setup() {
 int i = 0; //counter variable
 void loop() {
   for(i=0;i<NUM_LEDS;i++){
-      leds[i] = CRGB::Green //Sets a light to green
+      leds[i] = CRGB::Green; //Sets a light to green
       FastLED.show();
       delay(500);
-      leds[i] = CRGB::Black //Turns off the same light
+      leds[i] = CRGB::Black; //Turns off the same light
       FastLED.show();
   }
 }
